@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: O diretório intermediário (x64\Release\) contém arquivos compartilhados de outro projeto (SFML_Template.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Gerando código
+  0 of 135 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  SFML_Template.vcxproj -> C:\Users\Gabriel\Desktop\C++\PongC++\SFML_Template\x64\Release\PongProject.exe
